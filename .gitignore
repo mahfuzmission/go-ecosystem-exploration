@@ -1,0 +1,5 @@
+# .idea directory (used by IntelliJ IDEA)
+.idea
+
+# macOS specific
+.DS_Store
